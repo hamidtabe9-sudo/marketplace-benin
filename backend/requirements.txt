@@ -1,0 +1,7 @@
+﻿fastapi
+uvicorn[standard]
+SQLAlchemy
+pydantic-settings
+python-multipart
+PyJWT
+pwdlib[argon2]
