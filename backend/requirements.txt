@@ -5,3 +5,4 @@ pydantic-settings
 python-multipart
 PyJWT
 pwdlib[argon2]
+pydantic[email]
