@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Base de données locale
+*.db
+*.sqlite
+*.sqlite3
+
+# Node et Expo
+node_modules/
+.expo/
+dist/
+web-build/
+npm-debug.log*
+
+# Système et éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+# Donn�es locales et fichiers temporaires du projet
+backend/*.db*
+backend/uploads/
+mobile/backup-sdk*/
+mobile/package-lock.sdk58-stale.json
+mobile/publier-route-ancienne.tsx
+mobile/.claude/
